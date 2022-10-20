@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My attack cow behavior pack Add-On!",
+    "name": "My Behavior Pack",
+    "uuid":"821da7ea-507f-11ed-bdc3-0242ac120002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "My First Add-On!",
+          "type": "data",
+          "uuid": "c8a8eb63-50e1-4267-92c9-23e6bd747366",
+          "version": [1, 0, 0]
+      }
+    ],
+  "dependencies": [
+    {
+     "uuid":"UUID from the header section of manifest.json in My_RESOURCE_Pack",
+      "version":[1,0,0]
+    }
+ ]
+}
