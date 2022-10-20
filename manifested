@@ -18,7 +18,7 @@
     ],
   "dependencies": [
     {
-     "uuid":"UUID from the header section of manifest.json in My_RESOURCE_Pack",
+     "uuid":"4bcf1730-22fc-4257-a627-35422d03aafe",
       "version":[1,0,0]
     }
  ]
